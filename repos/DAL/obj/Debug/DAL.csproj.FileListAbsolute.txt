@@ -1,0 +1,9 @@
+C:\Users\Israel\source\repos\DAL\bin\Debug\DAL.dll
+C:\Users\Israel\source\repos\DAL\bin\Debug\DAL.pdb
+C:\Users\Israel\source\repos\DAL\bin\Debug\Dapper.dll
+C:\Users\Israel\source\repos\DAL\bin\Debug\Dapper.xml
+C:\Users\Israel\source\repos\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Israel\source\repos\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Israel\source\repos\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Israel\source\repos\DAL\obj\Debug\DAL.dll
+C:\Users\Israel\source\repos\DAL\obj\Debug\DAL.pdb
